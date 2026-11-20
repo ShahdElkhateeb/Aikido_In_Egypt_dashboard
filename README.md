@@ -4,7 +4,7 @@
 
 This project showcases an interactive Power BI dashboard developed to monitor key business metrics, user engagement, trainer performance, and operational insights.
 
-The dashboard was built using Power BI, DAX, Power Query, and SQL with the help of AI (Claude+MCPS).
+The dashboard was built using Power BI, DAX, Power Query, and SQL with the help of AI (Claude with MCP and Skills).
 
 > **Note**
 >
@@ -15,9 +15,16 @@ The dashboard was built using Power BI, DAX, Power Query, and SQL with the help 
 - Power BI
 - Power Query
 - DAX
-- MySQL(dbvear)
+- MySQL (DBeaver)
 - SQL
--Claude(MCPS+SKILLS)
+- Claude (MCP + Skills)
+
+## Data Model
+
+The relationships between the tables in the data model:
+
+<img alt="Data model relationships" src="Relationships.jpg" />
+
 ## Features
 
 - Members Analytics
@@ -29,8 +36,5 @@ The dashboard was built using Power BI, DAX, Power Query, and SQL with the help 
 - Financial overview
   <img width="850" height="431" alt="Financial overview" src="https://github.com/user-attachments/assets/8438d1b3-6ba2-4192-9b30-b7f0ee270da1" />
 
-- Fianical details
+- Financial details
   <img width="850" height="431" alt="Details" src="https://github.com/user-attachments/assets/56dd13aa-1ac1-449b-93b6-ee13688d8236" />
-
-
-## Dashboard Preview
